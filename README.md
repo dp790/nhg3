@@ -56,3 +56,7 @@ Tarayıcıda http://localhost:5173 adresi açılır.
 - Esnek cevap kontrolü
 - Geçmiş sorular paneli
 - PWA — telefona uygulama olarak kurulabilir
+
+
+
+böyle
