@@ -3,7 +3,7 @@
 ## Vercel ile Deploy (Ücretsiz, 5 dakika)
 
 ### 1. Hesap Aç
-- https://vercel.com adresine git
+- https://vercel.com adresine git.
 - "Sign Up" → GitHub veya e-posta ile ücretsiz hesap oluştur
 
 ### 2. Projeyi Yükle — 2 Yöntem
